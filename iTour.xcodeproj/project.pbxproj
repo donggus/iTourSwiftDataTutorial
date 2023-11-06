@@ -13,6 +13,7 @@
 		43D7A92C2AF708F700880313 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43D7A92B2AF708F700880313 /* Preview Assets.xcassets */; };
 		43D7A9332AF7092900880313 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D7A9322AF7092900880313 /* Destination.swift */; };
 		43D7A9352AF7249400880313 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D7A9342AF7249400880313 /* EditDestinationView.swift */; };
+		43D7A9372AF734CF00880313 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D7A9362AF734CF00880313 /* DestinationListingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		43D7A92B2AF708F700880313 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43D7A9322AF7092900880313 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		43D7A9342AF7249400880313 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		43D7A9362AF734CF00880313 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				43D7A9242AF708F600880313 /* iTourApp.swift */,
 				43D7A9262AF708F600880313 /* ContentView.swift */,
+				43D7A9362AF734CF00880313 /* DestinationListingView.swift */,
 				43D7A9342AF7249400880313 /* EditDestinationView.swift */,
 				43D7A9322AF7092900880313 /* Destination.swift */,
 				43D7A9282AF708F700880313 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				43D7A9252AF708F600880313 /* iTourApp.swift in Sources */,
 				43D7A9332AF7092900880313 /* Destination.swift in Sources */,
 				43D7A9352AF7249400880313 /* EditDestinationView.swift in Sources */,
+				43D7A9372AF734CF00880313 /* DestinationListingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
